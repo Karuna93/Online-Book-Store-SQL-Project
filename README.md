@@ -7,11 +7,11 @@ It includes a complete SQL script for schema creation, data import from CSV file
 ## 📁 Project Structure
 
 Online-Bookstore-Project/
-├── Online Book Store.sql  # Main SQL script with all queries
-├── books.csv              # Sample data for Books table
-├── customers.csv          # Sample data for Customers table
-├── orders.csv             # Sample data for Orders table
-└── README.md              # Project documentation
+├── Online Book Store.sql                               # Main SQL script with all queries
+├── books.csv                                           # Sample data for Books table
+├── customers.csv                                       # Sample data for Customers table
+├── orders.csv                                          # Sample data for Orders table
+├──  README.md                                          # Project documentation
 
 
 ## 🧱 Database Schema
